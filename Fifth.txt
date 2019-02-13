@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Fifth File Welcome
-=======
-Fifth File Welcome This is a Cherry Pick File.
->>>>>>> 9d4f06e... Update cherry pick
+Fifth File Welcome This is a Cherry Pick
