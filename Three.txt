@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Three file
 
+=======
+Three file 
+
+This is git Cherry-pick example
+>>>>>>> 754d1b0... This add is cherry-pick
